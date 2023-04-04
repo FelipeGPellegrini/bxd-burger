@@ -15,6 +15,11 @@ const Info = () => {
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis, reprehenderit voluptate? Alias, possimus suscipit distinctio dolor, dolore totam neque officiis eos dolorum enim labore magnam quod nobis dolores! Omnis, rerum.</p>
         <img width={300} src={maisPedidos} alt="Mais Pedidos" />
       </div>
+      <div className="infoItem">
+        <h2>Nossa Unidade</h2>
+        <hr color="orange"/>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235523.0378001579!2d-43.66193841643177!3d-22.726477081445097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x995d694889f955%3A0x23ff502568217834!2sNova%20Igua%C3%A7u%2C%20RJ!5e0!3m2!1spt-BR!2sbr!4v1680620192673!5m2!1spt-BR!2sbr" width="400" height="300" style={{ border: 0 }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
     </div>
   )
 }

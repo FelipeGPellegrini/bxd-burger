@@ -9,8 +9,8 @@ const Header = () => {
       <nav className="navigator">
         <ul>
           <li className="active">Home</li>
-          <li>Mais Pedidos</li>
-          <li>Cardápio</li>
+          <li className="underlineEffect">Mais Pedidos</li>
+          <li className="underlineEffect">Cardápio</li>
         </ul>
       </nav>
     </header>
