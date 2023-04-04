@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bxd-burger/static/css/main.f86e4873.css",
+    "main.js": "/bxd-burger/static/js/main.6690d849.js",
+    "static/media/background.webp": "/bxd-burger/static/media/background.4fe3fbf4639bc8bfcacc.webp",
+    "static/media/most-orders.jpg": "/bxd-burger/static/media/most-orders.830e2bef23a90dea7f27.jpg",
+    "static/media/background-cel.jpg": "/bxd-burger/static/media/background-cel.e05cae827c40b4dba2eb.jpg",
+    "index.html": "/bxd-burger/index.html",
+    "main.f86e4873.css.map": "/bxd-burger/static/css/main.f86e4873.css.map",
+    "main.6690d849.js.map": "/bxd-burger/static/js/main.6690d849.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f86e4873.css",
+    "static/js/main.6690d849.js"
+  ]
+}
